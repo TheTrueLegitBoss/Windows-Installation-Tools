@@ -453,7 +453,7 @@ def main():
 						i = 1
 						while os.path.exists(fname):
 							fname = f"{base}.{i}"
-						 i += 1
+						i += 1
 						if safe_download(url, fname, name):
 							print(f"Saved {fname}")
 						try:

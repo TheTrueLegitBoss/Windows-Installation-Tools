@@ -29,6 +29,7 @@ Private Internet Access
 
 
 Revo Uninstaller
-- Windows (Free download page): https://www.revouninstaller.com/revo_uninstaller_free_download.html
-- Windows (Pro download page / trial): https://www.revouninstaller.com/revo-uninstaller-pro-download/
+- Windows (Free) https://download.revouninstaller.com/download/revosetup.exe
 
+Ventoy
+- Windows (64-bit) https://sourceforge.net/projects/ventoy/files/v1.1.09/ventoy-1.1.09-windows.zip/download
